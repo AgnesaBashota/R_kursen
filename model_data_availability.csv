@@ -1,0 +1,6 @@
+formula,usable_rows
+log_pris ~ log_mil + ar,764
+log_pris ~ log_mil,764
+log_pris ~ ar,807
+pris ~ mil + ar,807
+pris ~ mil,807
