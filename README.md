@@ -1,7 +1,7 @@
 
-# Volvo Blocket – R-kod (klar att köra)
+# Volvo Blocket – R-kod 
 
-Lägg din fil här: `data/data_insamling_volvo_blocket.xlsx` (exakt namn).
+Lägg din fil här: `data/data_insamling_volvo_blocket.xlsx` 
 Kör sedan i R:
 
 ```r
